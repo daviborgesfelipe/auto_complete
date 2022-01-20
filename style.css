@@ -1,0 +1,21 @@
+body{
+    border: 2px solid #000;
+    border-radius: 10px;
+    padding: 0px;
+    margin: 10px;
+    width: 197px;
+    margin: 25%;
+    background-color: #fff;
+}
+text{
+    margin-left: 10px;
+}
+
+.btnEnviar{
+    width: 177px;
+    background-color: #bbb;
+}
+
+input{
+    margin: 10px;
+}

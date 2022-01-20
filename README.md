@@ -1,0 +1,1 @@
+aprendendo um pouco sobre o atributo autocomplete="on or off". Podendo ser usado para autocompletar campo de busca e formularios, exemplo o campo de busca do google, onde o proprio google tem um autocomplete, entao o autocomplete do navegador tem que esta desabilitado. 
