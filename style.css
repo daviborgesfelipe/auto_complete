@@ -10,10 +10,12 @@ body{
 text{
     margin-left: 10px;
 }
-
+div{
+    background-color: #bbb;
+}
 .btnEnviar{
     width: 177px;
-    background-color: #bbb;
+    background-color: #777;
 }
 
 input{
